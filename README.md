@@ -1,5 +1,5 @@
 Welcome! 👋
 
-I'm a software engineer that is passionate about all things _python_ 🐍 and _django_ 🎸
+I'm a software engineer that is passionate about all things _python_ 🐍, _django_ 🎸, and quite frankly becoming a better software engineer!
 
-Let's talk software [🐦](https://twitter.com/_curtisim0)
+The bird website that...I don't really use: [🐦](https://twitter.com/_curtisim0)
